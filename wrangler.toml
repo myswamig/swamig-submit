@@ -1,0 +1,6 @@
+name = "swamig-submit"
+main = "submit.js"
+compatibility_date = "2025-10-25"
+
+[build]
+command = ""
